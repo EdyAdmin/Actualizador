@@ -4,7 +4,7 @@ Script de PowerShell que uso para mantener Rust y las aplicaciones de WinGet al 
 
 ---
 
-## ⚡ Características principales
+## 📲 Implementación actual
 
 * **Rustup.** Ejecuta `rustup update` para actualizar las cadenas de herramientas de Rust. Tiene un límite de 5 minutos.
 * **WinGet.** Ejecuta `winget upgrade --all` en modo silencioso y con la interacción deshabilitada. Incluye paquetes cuya versión instalada es desconocida y tiene un límite de 60 minutos.
@@ -12,7 +12,7 @@ Script de PowerShell que uso para mantener Rust y las aplicaciones de WinGet al 
 
 ---
 
-## 🖥️ Modo de empleo
+## 🖥️ Formas de ejecutarlo
 
 ### 1. Ejecución manual
 
